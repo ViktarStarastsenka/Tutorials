@@ -19,6 +19,6 @@ The search and query features of Redis Stack allow you to use Redis as a:
 
 [Redis Stack](https://redis.io/download) >=7.2.0-v7 \
 OR \
-[Search and query]([https://github.com/RedisJSON/RedisJSON/](https://github.com/RediSearch/RediSearch/) >=2.8.11 \
+[RediSearch]([https://github.com/RedisJSON/RedisJSON/](https://github.com/RediSearch/RediSearch/) >=2.8.11 \
 OR \
 A free Redis Stack instance on [Redis Cloud](https://redis.com/try-free/?utm_source=redis\&utm_medium=app\&utm_campaign=redisinsight_vecsim_guide "Redis Cloud").
