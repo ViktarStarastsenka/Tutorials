@@ -5,7 +5,7 @@
 ### Social
 
 * [JSON capability on GitHub](https://github.com/RedisJSON/RedisJSON/)
-* [JSON capability on Discord](https://discord.com/channels/697882427875393627/732335467290427412)
+* [JSON capability on Discord](https://discord.com/channels/697882427875393627/1187464817745862786)
 
 ### Blogs
 
