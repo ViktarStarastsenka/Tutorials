@@ -5,7 +5,7 @@
 ### Social
 
 * [Time series data structure on GitHub](https://github.com/RedisTimeSeries/RedisTimeSeries)
-* [Time series data structure on Discord](https://discord.com/channels/697882427875393627/732335369718071376)
+* [Time series data structure on Discord](https://discord.com/channels/697882427875393627/1187465324828827790)
 * [Time series data structure on Stack Overflow](https://stackoverflow.com/questions/tagged/redistimeseries)
 
 ### Blogs
