@@ -5,7 +5,7 @@
 ### Social
 
 - [Probabilistic data structures on GitHub](https://github.com/RedisBloom/RedisBloom)
-- [Probabilistic data structures on Discord](https://discord.com/channels/697882427875393627/741003759764635739)
+- [Probabilistic data structures on Discord](https://discord.com/channels/697882427875393627/1187465242821804162)
 
 ### Blogs
 
