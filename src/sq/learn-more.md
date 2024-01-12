@@ -5,7 +5,7 @@
 ### Social
 
 * [Search and query on GitHub](https://github.com/RediSearch/RediSearch)
-* [Search and query on Discord](https://discord.com/channels/697882427875393627/732335216068132995)
+* [Search and query on Discord](https://discord.com/channels/697882427875393627/1187464938218856501)
 * [Search and query on Stack Overflow](https://stackoverflow.com/questions/tagged/redisearch)
 
 ### Blogs
@@ -15,5 +15,3 @@
 ### Tutorials
 
 * [Examples](https://redis.io/docs/interact/search-and-query/query/)
-
-
