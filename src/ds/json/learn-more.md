@@ -1,6 +1,6 @@
 ### Documentation
 
-* [Redis OSS Home](https://redis.io/docs/data-types/json/?utm_source=redisinsight&utm_medium=main&utm_campaign=tutorials)
+* [JSON capability home](https://redis.io/docs/data-types/json/?utm_source=redisinsight&utm_medium=main&utm_campaign=tutorials)
 
 ### Social
 
